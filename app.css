@@ -1,0 +1,35 @@
+button:hover {
+    cursor: pointer;
+} 
+
+h1 {
+    color: blueviolet;
+    font-family: 'Poppins', sans-serif;
+}
+
+h2 {
+    color: aliceblue;
+    font-family: 'Poppins', sans-serif;
+}
+
+.modo_sexo  {
+    height: 2000px;
+    position: absolute;
+    display: none;
+    width: 100%;
+    background-color: #CC3535;
+    z-index: 1000;
+}
+
+
+#btn_si {
+    background-color: cadetblue;
+    border-color: cadetblue;
+    color: azure;
+    font-size: xx-large;
+    padding: 32px;
+    text-align: center;
+    border-radius: 2px;
+}
+
+/* Los id se empiezan con GATO #
